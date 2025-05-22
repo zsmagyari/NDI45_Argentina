@@ -3,6 +3,6 @@ authored by Ionel HAIDU, Zsolt MAGYARI-SÁSKA and Attila MAGYARI-SÁSKA
 
 ## Content of folders
 * **original** - original NDI45 index as NetCDF file
-* **KF** - data imputed with Kalman Filter and the associated uncertanity data
-* **LSTM** - data imputed with LSTM and the associated uncertanity data
-* **nsemble** - data imputed with the ensemble model and the associated uncertanity data
+* **KF** - data imputed with Kalman Filter and the associated variance
+* **LSTM** - data imputed with LSTM and the associated variance
+* **ensemble** - data imputed with the ensemble model and the associated variance
