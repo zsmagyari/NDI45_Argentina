@@ -1,4 +1,4 @@
-# Kalman Filter and LSTM model-based reconstruction of miss-ing data for NDI45 vegetation index: study area in the Argen-tine Pampas
+# Kalman Filter and LSTM model-based reconstruction of miss-ing data for NDI45 vegetation index: study area in the Argentine Pampas
 authored by Ionel HAIDU, Zsolt MAGYARI-SÁSKA and Attila MAGYARI-SÁSKA
 
 ## Content of folders
